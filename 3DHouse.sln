@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DHouse", "3DHouse\3DHouse.vcxproj", "{29B25A40-E90E-4F67-B6B2-30D3EF6E79AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29B25A40-E90E-4F67-B6B2-30D3EF6E79AB}.Debug|x64.ActiveCfg = Debug|x64
+		{29B25A40-E90E-4F67-B6B2-30D3EF6E79AB}.Debug|x64.Build.0 = Debug|x64
+		{29B25A40-E90E-4F67-B6B2-30D3EF6E79AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{29B25A40-E90E-4F67-B6B2-30D3EF6E79AB}.Debug|x86.Build.0 = Debug|Win32
+		{29B25A40-E90E-4F67-B6B2-30D3EF6E79AB}.Release|x64.ActiveCfg = Release|x64
+		{29B25A40-E90E-4F67-B6B2-30D3EF6E79AB}.Release|x64.Build.0 = Release|x64
+		{29B25A40-E90E-4F67-B6B2-30D3EF6E79AB}.Release|x86.ActiveCfg = Release|Win32
+		{29B25A40-E90E-4F67-B6B2-30D3EF6E79AB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9DB340-DCA6-4B4E-AA09-DC544EE89EB9}
+	EndGlobalSection
+EndGlobal

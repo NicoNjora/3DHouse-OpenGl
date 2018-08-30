@@ -1,0 +1,6 @@
+﻿  cat.cpp
+c:\users\nicollet njora\source\repos\3dhouse\3dhouse\cat.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nicollet njora\source\repos\3dhouse\3dhouse\cat.cpp(11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nicollet njora\source\repos\3dhouse\3dhouse\cat.cpp(18): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\nicollet njora\source\repos\3dhouse\3dhouse\cat.cpp(26): warning C4551: function call missing argument list
+  3DHouse.vcxproj -> c:\Users\nicollet njora\source\repos\3DHouse\Debug\3DHouse.exe
